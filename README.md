@@ -7,7 +7,7 @@ If you are intrigued about these questions, join us in the lectures and group se
 
 We will be using this platform to share relevant papers, documents or any other materials that will be used during the summer school.
 
-Find below a summarized schedule and visit our [Wiki](https://github.com/ortiztudelaJ/lisco_sumer_school/wiki) for more details. Also, if you want to know more about us, visit our [Goethe University homepage] (http://www.psychologie.uni-frankfurt.de/70500463/Das_Team)
+Find below a summarized schedule and visit our [Wiki](https://github.com/ortiztudelaJ/lisco_sumer_school/wiki) for more details. Also, if you want to know more about us, visit our [Goethe University homepage](http://www.psychologie.uni-frankfurt.de/70500463/Das_Team)
 
 See you soon!
 
