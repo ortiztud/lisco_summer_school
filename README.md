@@ -1,3 +1,4 @@
+![LISCO_logo]
 # Memory and the Predictive Brain – a Developmental Perspective
 ## LISCO Lab Summer School 2020
 
