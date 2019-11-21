@@ -2,7 +2,7 @@
 # Memory and the Predictive Brain – a Developmental Perspective
 ## LISCO Lab Summer School 2020
 
-Welcome to the LISCO Lab Summer School on Memory and the Predictive Brain: a Developmental Perspective! In the next two weeks we will learn about different memory systems and their relation to predictions. What types of information can our brains store in the form of memory traces? How are these created, mantained and retrieved or lost? Do these memories help us anticipating what is out there? How does surprise relate to formation of new memories?
+Welcome to the LISCO Lab Summer School on Memory and the Predictive Brain: a Developmental Perspective! In the next two weeks we will learn about different memory systems and their relation to predictions. What types of information can our brains store in the form of memory traces? How are these created, maintained and retrieved or lost? Do these memories help us anticipating what is out there? How does surprise relate to formation of new memories?
 
 If you are intrigued about these questions, join us in the lectures and group sessions: there will be plenty of exciting information for you! 
 
