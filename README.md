@@ -1,4 +1,4 @@
-![LISCO_logo]
+![LISCO_logo](http://www.psychologie.uni-frankfurt.de/56065400/logo.png?size=sidebar_ad_image)
 # Memory and the Predictive Brain – a Developmental Perspective
 ## LISCO Lab Summer School 2020
 
